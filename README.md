@@ -43,9 +43,9 @@ Analyzed IPL datasets using Python and Pandas to extract insights.
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sourabh9098&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sourabh9098&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sourabh9098&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sourabh9098&layout=compact&theme=tokyonight)
 
 ---
 
@@ -54,6 +54,7 @@ Analyzed IPL datasets using Python and Pandas to extract insights.
 ![GitHub Streak](https://streak-stats.demolab.com/?user=sourabh9098)
 
 ---
+![GitHub Streak](https://streak-stats.demolab.com/?user=sourabh9098&theme=tokyonight)
 
 ## 🌱 Currently Learning
 
