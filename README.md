@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sourabh Vishwakarma</h1>
+<h1 align="center">Hi 👋 I'm Sourabh Vishwakarma</h1>
 <h3 align="center">Aspiring Data Scientist | Data & AI Enthusiast</h3>
 
 ---
@@ -31,7 +31,7 @@ Git | GitHub | Jupyter Notebook | VS Code | Google Colab
 ## 📊 Featured Projects
 
 🔹 **Sales Data Analysis Dashboard**  
-Built a Power BI dashboard to analyze revenue trends and product performance.
+Built a Ms Excel dashboard to analyze revenue trends and product performance.
 
 🔹 **Customer Segmentation (Machine Learning)**  
 Applied clustering algorithms to identify customer groups.
@@ -43,9 +43,9 @@ Analyzed IPL datasets using Python and Pandas to extract insights.
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sourabh9098&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sourabh9098&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sourabh9098&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sourabh9098&layout=compact&theme=tokyonight)
 
 ---
 
@@ -67,8 +67,9 @@ Analyzed IPL datasets using Python and Pandas to extract insights.
 ## 📫 Connect With Me
 
 LinkedIn: www.linkedin.com/in/sourabh9098
-Vanity URL name
+
 Email: www.sourabh555@gmail.com
+
 Phone number : +91-9098894503
 ---
 
