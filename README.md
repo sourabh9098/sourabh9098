@@ -39,6 +39,26 @@ Applied clustering algorithms to identify customer groups.
 🔹 **IPL Data Analysis**  
 Analyzed IPL datasets using Python and Pandas to extract insights.
 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sourabh9098)
+
+
+
+## 🧠 Skills
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi)  
+
+
+## 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=sourabh9098&color=blue)
+
+## 📊 Contribution Graph
+
+![Sourabh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sourabh9098&theme=tokyo-night)
 ---
 
 ## 📈 GitHub Stats
@@ -54,7 +74,6 @@ Analyzed IPL datasets using Python and Pandas to extract insights.
 ![GitHub Streak](https://streak-stats.demolab.com/?user=sourabh9098)
 
 ---
-![GitHub Streak](https://streak-stats.demolab.com/?user=sourabh9098&theme=tokyonight)
 
 ## 🌱 Currently Learning
 
