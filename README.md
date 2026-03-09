@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi 👋, I'm Sourabh Vishwakarma
 
-<!--
-**sourabh9098/sourabh9098** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Student | Aspiring Data Scientist  
+📊 Passionate about Data Science, Machine Learning & Analytics
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+- Python
+- SQL
+- Pandas
+- NumPy
+- Machine Learning
+- Power BI
+- Data Visualization
+
+---
+
+## 📊 Projects
+🔹 Sales Data Analysis Dashboard  
+🔹 Customer Segmentation using Machine Learning  
+🔹 IPL Data Analysis using Python  
+
+---
+
+## 🛠 Tools
+Python | Jupyter Notebook | Power BI | Excel | SQL | Git
+
+---
+
+## 🌱 Currently Learning
+- Advanced Machine Learning
+- Deep Learning
+- Data Engineering Basics
+
+---
+
+## 📫 Connect With Me
+LinkedIn: your link  
+Email: your email
