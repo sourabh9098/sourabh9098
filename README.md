@@ -28,7 +28,7 @@
 
 # 🚀 Tools
 
-Python • Jupyter Notebook • Git • GitHub • VS Code • Power BI • Excel
+Python • Jupyter Notebook • Git • GitHub • VS Code • Power BI • Excel • Google Colab
 
 ---
 
@@ -59,9 +59,9 @@ Python • Jupyter Notebook • Git • GitHub • VS Code • Power BI • Exce
 # 📚 Currently Learning
 
 - Machine Learning
-- Data Analysis
-- Data Visualization
-- Data Engineering Basics
+- Deep Learning
+- Data Engineering
+- Cloud for Data Science
 
 ---
 
@@ -70,15 +70,19 @@ Python • Jupyter Notebook • Git • GitHub • VS Code • Power BI • Exce
 🔹 Netflix Data Analysis  
 🔹 IPL Data Analysis  
 🔹 Customer Segmentation ML  
-🔹 Sales Dashboard (Power BI)
+🔹 Sales Dashboard (Excel)
 
 ---
 
-# 📫 Connect With Me
+## 📫 Connect With Me
 
-LinkedIn: https://www.linkedin.com/  
-Email: your-email@gmail.com
+LinkedIn: www.linkedin.com/in/sourabh9098
+
+Email: www.sourabh555@gmail.com
+
+Phone number : +91-9098894503
 
 ---
+
 
 ⭐ If you like my projects, feel free to star my repositories!
