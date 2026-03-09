@@ -1,101 +1,84 @@
-<h1 align="center">Hi 👋 I'm Sourabh Vishwakarma</h1>
-<h3 align="center">Aspiring Data Scientist | Data & AI Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Sourabh Vishwakarma</h1>
+<h3 align="center">Aspiring Data Scientist | Python | Machine Learning | Data Analytics</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&color=00F7FF&center=true&vCenter=true&width=700&lines=Aspiring+Data+Scientist;Python+Developer;Machine+Learning+Enthusiast;Data+Analytics+Learner" />
+</p>
 
 ---
 
-🚀 Passionate about **Data Science, Machine Learning, and Data Analytics**  
-📊 I love transforming raw data into **meaningful insights**  
-🎯 Currently learning **Advanced Machine Learning & AI Engineering**
+# 👀 Profile Views
+
+<p align="left"> 
+<img src="https://komarev.com/ghpvc/?username=sourabh9098&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
-## 🧠 Skills
-
-💻 Programming  
-Python | SQL
-
-📊 Data Analysis  
-Pandas | NumPy | Excel
-
-🤖 Machine Learning  
-Scikit-Learn | Model Building | Data Preprocessing
-
-📈 Data Visualization  
-Power BI | Matplotlib | Seaborn
-
-🛠 Tools  
-Git | GitHub | Jupyter Notebook | VS Code | Google Colab
-
----
-
-## 🧠 Skills
+# 🧠 Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-orange?style=for-the-badge)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi)
-![Machine Learning](https://img.shields.io/badge/MachineLearning-orange?style=for-the-badge)
 
 ---
 
-## 📊 Featured Projects
+# 🚀 Tools
 
-🔹 **Sales Data Analysis Dashboard**  
-Built a Ms Excel dashboard to analyze revenue trends and product performance.
-
-🔹 **Customer Segmentation (Machine Learning)**  
-Applied clustering algorithms to identify customer groups.
-
-🔹 **IPL Data Analysis**  
-Analyzed IPL datasets using Python and Pandas to extract insights.
+Python • Jupyter Notebook • Git • GitHub • VS Code • Power BI • Excel
 
 ---
 
-## 🔥 Streak Stats
+# 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=sourabh9098)
+<p align="center">
 
----
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=sourabh9098&show_icons=true&theme=tokyonight"/>
 
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourabh9098&layout=compact&theme=tokyonight"/>
 
-## 👀 Profile Views
-
-![](https://komarev.com/ghpvc/?username=sourabh9098&color=blue)
-
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sourabh9098&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sourabh9098&layout=compact&theme=tokyonight)
+</p>
 
 ---
 
-## 🐍 Contribution Snake
+# 📈 Activity Graph
 
-![Snake animation](https://github.com/sourabh9098/sourabh9098/blob/output/github-contribution-grid-snake.svg)
-
----
-
-
-## 🌱 Currently Learning
-
-- Advanced Machine Learning
-- Deep Learning
-- Data Engineering
-- Cloud for Data Science
+![Sourabh Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sourabh9098&theme=tokyo-night)
 
 ---
 
-## 📫 Connect With Me
+# 🐍 Contribution Snake
 
-LinkedIn: www.linkedin.com/in/sourabh9098
+![Snake animation](https://github.com/sourabh9098/sourabh9098/blob/output/github-contribution-grid-snake-dark.svg)
 
-Email: www.sourabh555@gmail.com
-
-Phone number : +91-9098894503
 ---
 
-⭐ If you like my projects, feel free to **star the repositories**!
+# 📚 Currently Learning
 
+- Machine Learning
+- Data Analysis
+- Data Visualization
+- Data Engineering Basics
+
+---
+
+# 📂 Featured Projects
+
+🔹 Netflix Data Analysis  
+🔹 IPL Data Analysis  
+🔹 Customer Segmentation ML  
+🔹 Sales Dashboard (Power BI)
+
+---
+
+# 📫 Connect With Me
+
+LinkedIn: https://www.linkedin.com/  
+Email: your-email@gmail.com
+
+---
+
+⭐ If you like my projects, feel free to star my repositories!
