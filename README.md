@@ -1,16 +1,30 @@
-<h1 align="center">Hi 👋, I'm Sourabh Vishwakarma</h1>
-<h3 align="center">Aspiring Data Scientist | B.Tech Student | Python & Machine Learning Enthusiast</h3>
-
-<p align="center">
-I am passionate about Data Science, Machine Learning, and Data Analytics.  
-I enjoy transforming raw data into meaningful insights and building data-driven solutions.
-</p>
+<h1 align="center">Hi 👋 I'm Sourabh Vishwakarma</h1>
+<h3 align="center">Aspiring Data Scientist | Data & AI Enthusiast</h3>
 
 ---
 
-## 👀 Profile Visitors
+🚀 Passionate about **Data Science, Machine Learning, and Data Analytics**  
+📊 I love transforming raw data into **meaningful insights**  
+🎯 Currently learning **Advanced Machine Learning & AI Engineering**
 
-![](https://komarev.com/ghpvc/?username=sourabh9098&color=blue)
+---
+
+## 🧠 Skills
+
+💻 Programming  
+Python | SQL
+
+📊 Data Analysis  
+Pandas | NumPy | Excel
+
+🤖 Machine Learning  
+Scikit-Learn | Model Building | Data Preprocessing
+
+📈 Data Visualization  
+Power BI | Matplotlib | Seaborn
+
+🛠 Tools  
+Git | GitHub | Jupyter Notebook | VS Code | Google Colab
 
 ---
 
@@ -25,23 +39,36 @@ I enjoy transforming raw data into meaningful insights and building data-driven 
 
 ---
 
-## 🚀 Tools
+## 📊 Featured Projects
 
-Python | Jupyter Notebook | Git | GitHub | VS Code | Power BI | Excel
+🔹 **Sales Data Analysis Dashboard**  
+Built a Ms Excel dashboard to analyze revenue trends and product performance.
+
+🔹 **Customer Segmentation (Machine Learning)**  
+Applied clustering algorithms to identify customer groups.
+
+🔹 **IPL Data Analysis**  
+Analyzed IPL datasets using Python and Pandas to extract insights.
 
 ---
 
-## 📊 GitHub Activity Graph
+## 🔥 Streak Stats
 
-![Sourabh Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sourabh9098&theme=tokyo-night)
+![GitHub Streak](https://streak-stats.demolab.com/?user=sourabh9098)
 
 ---
+
+
+## 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=sourabh9098&color=blue)
+
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sourabh9098&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sourabh9098&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sourabh9098&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sourabh9098&layout=compact&theme=tokyonight)
 
 ---
 
@@ -51,20 +78,24 @@ Python | Jupyter Notebook | Git | GitHub | VS Code | Power BI | Excel
 
 ---
 
+
 ## 🌱 Currently Learning
 
-- Machine Learning
-- Data Analysis
-- Data Visualization
-- Data Engineering Basics
+- Advanced Machine Learning
+- Deep Learning
+- Data Engineering
+- Cloud for Data Science
 
 ---
 
 ## 📫 Connect With Me
 
-LinkedIn: https://www.linkedin.com/  
-Email: your-email@gmail.com
+LinkedIn: www.linkedin.com/in/sourabh9098
 
+Email: www.sourabh555@gmail.com
+
+Phone number : +91-9098894503
 ---
 
-⭐ If you like my projects, feel free to **star the repositories**.
+⭐ If you like my projects, feel free to **star the repositories**!
+
