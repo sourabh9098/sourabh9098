@@ -26,13 +26,13 @@
 
 ---
 
-# 🚀 Tools
+#  Tools
 
 Python • Jupyter Notebook • Git • GitHub • VS Code • Power BI • Excel • Google Colab
 
 ---
 
-# 📊 GitHub Stats
+# GitHub Stats
 
 <p align="center">
 
