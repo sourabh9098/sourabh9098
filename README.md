@@ -80,7 +80,6 @@ LinkedIn: www.linkedin.com/in/sourabh9098
 
 Email: www.sourabh555@gmail.com
 
-Phone number : +91-9098894503
 
 ---
 
